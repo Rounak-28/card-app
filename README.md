@@ -1,1 +1,1 @@
-  this project is made by me as a practice project from https://www.frontendmentor.io/
+  This project is made by me as a practice project from https://www.frontendmentor.io/
