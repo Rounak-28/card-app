@@ -16,7 +16,7 @@ export default function Navbar(props) {
              src={require("../images/bg-main-desktop.png")}  
              alt="idk" 
              />
-            <div className="img-back absolute top-72 left-64 w-72">
+            <div className="img-back absolute top-8 right-4 md:top-72 md:left-64 w-72">
                 <img 
                 className="relative"
                 src={require("../images/bg-card-back.png")} 
@@ -28,7 +28,7 @@ export default function Navbar(props) {
                     />
                 </div>
             </div>
-            <div className="img absolute top-24 left-48 w-72">
+            <div className="img absolute top-32 left-4 md:top-24 md:left-48 w-72">
                 <img
                 className="relative"
                 src={require("../images/bg-card-front.png")}
